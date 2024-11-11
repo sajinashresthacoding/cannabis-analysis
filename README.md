@@ -6,11 +6,15 @@ This project was developed to support a [story](https://sajinashresthacoding.git
 
 ## Findings: 
 I took the findings from my plot in my Jupyter Notebook and updated it on DataWrapper by adding context. 
-
 Original Plot:
-![Plot on Pandas](https://github.com/sajinashresthacoding/cannabis-analysis/blob/main/imgs/findings.png)
-
+![Plot on Pandas](https://github.com/sajinashresthacoding/cannabis-analysis/blob/main/imgs/original_graph.png)
 DataWrapper Graph:
-![Dataweapper plot](https://github.com/sajinashresthacoding/cannabis-analysis/blob/main/imgs/original_graph.png)
+![Dataweapper plot](https://github.com/sajinashresthacoding/cannabis-analysis/blob/main/imgs/findings.png)
+
+## Data Cleaning and Analysis:
+* Used Pandas fundamentals such as queries, strings, and plot to find, clean, and map the data
+* Consolidated extracted data into a structured CSV file.
+* Enhanced findings by adding key context and annotations to the graph using DataWrapper.
+
 
 
