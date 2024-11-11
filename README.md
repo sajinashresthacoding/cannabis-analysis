@@ -8,4 +8,4 @@ This project was developed to support a [story](https://sajinashresthacoding.git
 I took the findings from my plot in my Jupyter Notebook and updated it on DataWrapper by adding context. 
 
 Original Plot:
-![Plot on Pandas](https://github.com/sajinashresthacoding/cannabis-analysis/imgs/findings.png)
+![Plot on Pandas](https://github.com/sajinashresthacoding/cannabis-analysis/imgs/findings.png?raw=true)
