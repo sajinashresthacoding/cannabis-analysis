@@ -6,9 +6,9 @@ This project was developed to support a [story](https://sajinashresthacoding.git
 
 ## Findings: 
 I took the findings from my plot in my Jupyter Notebook and updated it on DataWrapper by adding context. 
-Original Plot:
+**Original Plot:**
 ![Plot on Pandas](https://github.com/sajinashresthacoding/cannabis-analysis/blob/main/imgs/original_graph.png)
-DataWrapper Graph:
+**DataWrapper Graph:**
 ![Dataweapper plot](https://github.com/sajinashresthacoding/cannabis-analysis/blob/main/imgs/findings.png)
 
 ## Data Cleaning and Analysis:
